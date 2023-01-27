@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <style>
+      form{
+        margin-left: 102px;
+      }
+    </style>
+</head>
+<body>
+    <table class="table table-dark table-striped">
+        <tr>
+            <td>FIRSTNAME</td>
+            <td>-</td>
+            <td>{{ fname }}</td>
+        </tr>
+        <tr>
+            <td>LASTNAME</td>
+            <td>-</td>
+            <td>{{ lname }}</td>
+        </tr>
+        <tr>
+            <td>EMAIL</td>
+            <td>-</td>
+            <td>{{ email }}</td>
+        </tr>
+        <tr>
+            <td>GENDER</td>
+            <td>-</td>
+            <td>{{ gender }}</td>
+        </tr>
+        <tr>
+            <td>DATE OF BIRTH</td>
+            <td>-</td>
+            <td>{{ dob }}</td>
+        </tr>
+      </table>
+      <button data-toggle="collapse" data-target="#demo" class="btn btn-success">Add more</button>
+
+<div id="demo" class="collapse" style="width: 980px;">
+    <br>
+    
+  
+    
+            <form action="" >
+              <!-- 2 column grid layout with text inputs for the first and last names -->
+              <div class="row">
+                <div class="col-md-6 mb-4">
+                  <div class="form-floating" style="width: 230px;
+                  margin-left: 174px;
+              ">
+                    <input type="text" placeholder="Father name" id="form3Example1" class="form-control" />
+                    <label for="floatingTextarea2" style="margin-top: -6.5px;">Father name</label>
+                  </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                  <div class="form-floating" style="width: 230px;">
+                    <input type="text" placeholder="Nationality" id="form3Example2" class="form-control" />
+                    <label for="floatingTextarea2" style="margin-top: -6.5px;">Nationality</label>
+                  </div>
+                </div>
+              </div>
+  
+              <div class="row">
+              <div class="col-md-6 mb-4">
+                <div class="form-floating" style="width: 230px;
+                margin-left: 174px;
+            ">
+                  <input type="text" placeholder="Mobile" id="form3Example1" class="form-control" />
+                  <label for="floatingTextarea2" style="margin-top: -6.5px;">Mobile</label>
+                </div>
+                <div class="col-md-6 mb-4">
+                    <div class="form-floating" style="margin-top:-42px;
+                    width: 230px; margin-left: 436.5px;">
+                      <input type="text" placeholder="Religion" id="form3Example2" class="form-control" />
+                      <label for="floatingTextarea2" style="margin-top: -6.5px;">Religion</label>
+                      
+                    </div>
+                  </div>
+                </div>
+                <div class="form-floating" style="margin-left: 232px;
+                margin-top: -17px;">
+                    <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea2" style="height: 100px; width: 400px;"></textarea>
+                    <label for="floatingTextarea2" style="margin-left: 11px;">Address</label>
+                  </div>
+                  <br>
+                  <div class="file" style="color: aliceblue; margin-left:237px;">
+                    
+                    <input type="file" style="margin-left:1px; margin-top:4px;">
+                  </div>
+  
+              <!-- Submit button -->
+              <button type="submit" class="btn btn-primary btn-block mb-4" style="    margin-top: 61px;
+              width: 100px;
+              margin-left: 406px;">
+                Add
+              </button>
+  
+             
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- Section: Design Block -->
+
+</div>
+</body>
+</html>

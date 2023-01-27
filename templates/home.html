@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <script src="https://kit.fontawesome.com/07555236b8.js" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
+
+    
+    
+
+    <link rel="stylesheet" href="static/dashboard.css">
+    <link rel="stylesheet" href="static/style2.css">
+    <link rel="icon" href="/static/img/mcq logo.jpg">
+    <title>Home</title>
+    
+</head>
+    <body id="body-pd">
+        <div class="banner">
+            <!-- <video autoplay muted loop>
+                <source src="/static/img/3d sea-ocean waves animation.mp4">
+
+            </video> -->
+        </div>
+        <header class="header bg-dark" id="header">
+        <nav id="navbar_top" class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="header">
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarAdmin" aria-controls="navbarAdmin" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <i class="fa-sharp fa-solid fa-house fa-xl " style="color: blue;
+              margin-left: -13px;
+              margin-top: -17px;
+          "></i>
+              <h6 class="text-light ml-5 " id="header">Home</h6>
+              <form class="d-flex" style="margin-left: 74%;">
+                <!-- <i class="fa-solid fa-magnifying-glass fa-l">"Search"</i> -->
+                  <input class="form-control me-2 fontAwesome" style="font-family: FontAwesome;     font-size: smaller;
+                  font-style: oblique;
+                  color: black;
+                  margin-top: 4px;" type="search" placeholder="&#xF002; Search" aria-label="Search">
+                  <button class="btn btn-outline-success" style="color: whitesmoke;
+                  border-color: lawngreen; margin-top: 1.5px;" type="submit">Search</button>
+                </form>
+                </ul>
+
+              </div>
+            </nav>
+        </header>
+
+        <div class="l-navbar bg-dark mt-5" id="nav-bar">
+            <nav class="nav">
+                <div id="header">
+                    <div class="header_toggle"> <i class='bx bx-menu text-light' id="header-toggle" style="margin-top: 50px;"></i> </div>
+                    <div class="header_img"> <img src="https://i.imgur.com/hczKIze.jpg" alt=""> </div>
+                </div>
+                <div id="sidebar-container" class="sidebar-expanded d-none d-md-block">
+                    <i class="fa-solid fa-circle-user" style="    color: greenyellow;
+                    font-size: xx-large;
+                    margin-left: -40px;"></i>
+    <h5>{{email}}</h5>
+    <!-- d- * verbirgt die Sidebar in kleineren Geräten. Die Einträge können im Navbar-Menü gespeichert werden -->
+    <!-- Bootstrap-Listengruppe -->
+    <ul class="list-group" style="margin-top: 28%; margin-left: 26px;">
+      <!-- Trennzeichen mit Titel -->
+      <li class="list-group-item sidebar-separator-title text-muted d-flex align-items-center menu-collapsed">
+                <small >MAIN MENU</small>
+            </li>
+
+            </ul>
+                <a href="#" class="bg-dark list-group-item list-group-item-action nav_link" id="dashboard">
+                    <div class="d-flex w-100 justyfy-content-start align-items-center">
+                      <span class="fas fa-tachometer-alt fa-fw mr-3" style="margin-left:-12.5px;"></span>
+                      <span class="menu-collapsed" style="margin-left:10.5px;">Dashboard</span>
+                    </div>
+                  </a>
+            
+                  <a href="#submenu2" data-toggle="collapse" aria-expanded="false" class="bg-dark list-group-item list-group-item-action flex-column align-items-start nav_link">
+                    <div class="d-flex w-100 justify-content-start align-items-center">
+                     <span class="fa-solid fa-list-check mr-3" style="margin-left: -11.5px;"></span>
+                     <span class="menu-collapsed" style=" margin-left: 12px;">Tasks</span>
+                     <span class="fas fa-angle-down ml-auto"></span>
+                    </div>
+                   </a>
+                  <!-- Inhalt des Untermenüs -->
+                  <div id='submenu2' class="collapse sidebar-submenu" style="margin-left:51px;">
+                            <a href="#" class="list-group-item list-group-item-action bg-dark text-white nav_link " id="test">
+                                <span class="menu-collapsed">Test</span>
+                            </a>
+                            <a href="#" class="list-group-item list-group-item-action bg-dark text-white nav_link" id="mark">
+                                <span class="menu-collapsed">Mark</span>
+                            </a>
+                        </div>
+                        <a href="#" class="bg-dark list-group-item list-group-item-action nav_link" id="about">
+                            <div class="d-flex w-100 justify-content-start align-items-center">
+                              <span class="fa-solid fa-circle-info mr-3" style="margin-left: -10px;"></span>
+                                <span class="menu-collapsed" style="margin-left: 14px;">About</span>
+                            </div>
+                        </a>
+                        
+                        <!-- <a href="#" class="bg-dark list-group-item list-group-item-action">
+                            <div class="d-flex w-100 justify-content-start align-items-center">
+                                <span class="fas fa-calendar fa-fw mr-3"></span>
+                                <span class="menu-collapsed">Calendar</span>
+                            </div> 
+                          </a> -->
+                        <a href="#" class="bg-dark list-group-item list-group-item-action nav_link" id="help">
+                            <div class="d-flex w-100 justify-content-start align-items-center">
+                                <span  class="fa-solid fa-question mr-3" style="margin-left: -8px;"></span>
+                                <span class="menu-collapsed" style="margin-left: 20px;">Help<span>
+                            </div>
+                        </a>
+                        
+                        <a href="/logout" class="bg-dark list-group-item list-group-item-action nav_link" id="logout">
+                            <div class="d-flex w-100 justify-content-start align-items-center">
+                                <span class="fa-solid fa-arrow-right-from-bracket mr-3" style="margin-left: -10px;"></span>
+                                <span class="menu-collapsed" style='font-family: ui-sans-serif; font-weight: 100; margin-left: 5%; margin-left: 13px;'>Logout</span>
+                            </div>
+                        </a>
+                        <a href="/caution" data-toggle="sidebar-colapse" class="bg-dark list-group-item list-group-item-action d-flex align-items-center" style="margin-top: 30%; margin-left:-42px;" id="viewstudent">
+                            <div class="d-flex w-100 justify-content-start align-items-center" style=" margin-left: 39%;">
+                                <span id="collapse-icon" class="fa-solid fa-users-viewfinder mr-3" style="margin-left: -15%;"></span>
+                                <span id="collapse-text" class="menu-collapsed" style="margin-left: 2%;
+                                font-size: smaller;">View students</span>
+                            </div>
+                            
+                        </a>
+                    </div>
+            </nav>
+        </div>
+        <div class="container">
+            <img src="\static\img\letter a.jpg" >
+            <img src="\static\img\letter b.jpg" >
+            <img src="\static\img\letter c.jpg" >
+            <img src="\static\img\letter d.jpg" >
+            <img src="\static\img\letter a.jpg" >
+            <img src="\static\img\letter b.jpg" >
+            <img src="\static\img\letter c.jpg" >
+            <img src="\static\img\letter d.jpg" >
+      
+     
+            
+          </div>
+        <!--Container Main start-->
+        <div class="height-100" id="content">
+            <div class="card">
+                <div class="imgBox">
+                  <div class="bark"></div>
+                  <img src="static\img\mcq11.jpg" style="margin-top: -3px;
+                  width: 324px;
+                  height: 938px;">
+                </div>
+                <div class="details">
+                  <h4 class="color1">welcome</h2>
+                  <h4 class="color2 margin" style="margin-top:35px;">{{fname}}</h3>
+                    <br>
+                    <br>
+                    <p style="margin-top:73px;">To know what you know and </p>
+                    <p>what you do not know,</p>
+                    <p>that is true knowledge</p>
+        
+
+                </div>
+                <div>
+                    
+              </div>
+        </div>
+      
+    </div><!-- Main Col END -->
+    
+</div><!-- body-row END -->
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+ <script src="/static/script.js"></script>
+
+</body>
+</html>

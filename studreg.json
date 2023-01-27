@@ -1,0 +1,54 @@
+{
+   "student registration": [
+      {
+         "s_no": 1,
+         "Firstname": "naveen",
+         "Lastname": "raja",
+         "DOB": "2000-10-25",
+         "Gender": "male",
+         "Email": "rnaveen2510@gmail.com",
+         "Username": "Naveen Raja",
+         "Password": "rnaveen2510@"
+      },
+      {
+         "s_no": 2,
+         "Firstname": "vinoth",
+         "Lastname": "kumar",
+         "DOB": "2000-10-10",
+         "Gender": "male",
+         "Email": "vinoth123@gmail.com",
+         "Username": "vinoth@",
+         "Password": "vinoth@"
+      },
+      {
+         "s_no": 3,
+         "Firstname": "srinivasan",
+         "Lastname": "govinthan",
+         "DOB": "2000-05-16",
+         "Gender": "male",
+         "Email": "srini@gmail.com",
+         "Username": "srini",
+         "Password": "srini@"
+      },
+      {
+         "s_no": 4,
+         "Firstname": "naveen",
+         "Lastname": "raja",
+         "DOB": "2000-10-25",
+         "Gender": "male",
+         "Email": "test@test.com",
+         "Username": "Naveen Raja",
+         "Password": "test"
+      },
+      {
+         "s_no": 5,
+         "Firstname": "varshita",
+         "Lastname": "kalaivani",
+         "DOB": "1997-06-26",
+         "Gender": "female",
+         "Email": "varu26@gmail.com",
+         "Username": "varu26",
+         "Password": "varu26@"
+      }
+   ]
+}
