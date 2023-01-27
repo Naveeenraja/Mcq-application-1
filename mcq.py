@@ -142,7 +142,9 @@ def help():
         for i in data["student registration"]:
             session["Firstname"]=i["Firstname"]
             return render_template("help.html", fname=session["Firstname"])
-            
+@app.route("/readmore")
+def read():
+    return render_template("readmore.html")        
         
 if __name__=="__main__":
     app.run(host="0.0.0.0",debug=True)   
