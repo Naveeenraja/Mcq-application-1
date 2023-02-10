@@ -1,0 +1,140 @@
+ {
+    "quiz_name": "General Knowledge",
+    "questions": [
+        {
+            "question": "1. Which animal known as the 'Ship of the Desert'?",
+            "answers": [
+                {"text": "A) Camel", "correct": "True", "name":"Animal"},
+                {"text": "B) Lion", "correct": "False","name":"Animal"},
+                {"text": "C) Elephant", "correct": "False", "name":"Animal"},
+                {"text": "D) Tiger", "correct": "False","name":"Animal"}
+            ]
+        },
+        {
+            "question": "2. Who is known as Father of Indian Constitution?",
+            "answers": [
+                {"text": "A) Nehru", "correct": "False","name":"Leaders"},
+                {"text": "B) Rajendra Prasad", "correct": "False","name":"Leaders"},
+                {"text": "C) Ambedkar", "correct": "True","name":"Leaders"},
+                {"text": "D) Rajaram Mohan Rai", "correct": "False","name":"Leaders"}
+            ]
+        },
+        {
+            "question": "3. The Battle of Plassey was fought in?",
+            "answers": [
+                {"text": "A) 1757", "correct": "True","name":"3"},
+                {"text": "B) 1782", "correct": "False","name":"3"},
+                {"text": "C) 1748", "correct": "False","name":"3"},
+                {"text": "D) 1764", "correct": "False","name":"3"}
+            ]
+        },
+        {
+            "question": "4. The Great Victoria Desert is located in?",
+            "answers": [
+                {"text": "A) Canada", "correct": "False","name":"4"},
+                {"text": "B) West Africa", "correct": "False","name":"4"},
+                {"text": "C) Australia", "correct": "True","name":"4"},
+                {"text": "D) North America", "correct": "False","name":"4"}
+            ]
+        },
+        {
+            "question": "5. The central banking functions in india are performed by the?",
+            "answers": [
+                {"text": "A) Central Bank Of India", "correct": "False","name":"5"},
+                {"text": "B) Reserve Bank Of India", "correct": "True","name":"5"},
+                {"text": "C) State Bank Of India", "correct": "False","name":"5"},
+                {"text": "D) Punjab National Bank", "correct": "False","name":"5"}
+            ]
+        },
+        {
+            "question": "6. which is the following non-metal that remains liquid at room temprature?",
+            "answers": [
+                {"text": "A) Bromine", "correct": "True","name":"6"},
+                {"text": "B) Phosphorous", "correct": "False","name":"6"},
+                {"text": "C) Chlorine", "correct": "False","name":"6"},
+                {"text": "D) Helium", "correct": "False","name":"6"}
+            ]
+        },
+        {
+            "question": "7. Which Scientist Discovered the Radioactive element radium?",
+            "answers": [
+                {"text": "A) Issac Newton", "correct": "False","name":"7"},
+                {"text": "B) Albert Einstein", "correct": "False","name":"7"},
+                {"text": "C) Benjamin Franklin", "correct": "False","name":"7"},
+                {"text": "D) Marie Curie", "correct": "True","name":"7"}
+            ]
+        },
+        {
+            "question": "8.20th August is celebrated as?",
+            "answers": [
+                {"text": "A) Earth day", "correct": "False","name":"8"},
+                {"text": "B) Sadbhavana Divas", "correct": "True","name":"8"},
+                {"text": "C) No Tobacco Day", "correct": "False","name":"8"},
+                {"text": "D) None of these", "correct": "False","name":"8"}
+            ]
+        },
+        {
+            "question": "9. Which Was the 1st non Test playing country to beat in India in an international match?",
+            "answers": [
+                {"text": "A) Canada", "correct": "False","name":"9"},
+                {"text": "B) Srilanka", "correct": "True","name":"9"},
+                {"text": "C) Zimbabwe", "correct": "False","name":"9"},
+                {"text": "D) Afganistan", "correct": "False","name":"9"}
+            ]
+        },
+        {
+            "question": "10. 'Dandia' is popular dance of?",
+            "answers": [
+                {"text": "A) Punjab", "correct": "False","name":"10"},
+                {"text": "B) Odisha", "correct": "False","name":"10"},
+                {"text": "C) Gujarat", "correct": "True","name":"10"},
+                {"text": "D) Maharashtra", "correct": "False","name":"10"}
+            ]
+        },
+        {
+            "question": "11. The number of major ports in India is?",
+            "answers": [
+                {"text": "A) 13", "correct": "True","name":"11"},
+                {"text": "B) 5", "correct": "False","name":"11"},
+                {"text": "C) 8", "correct": "False","name":"11"},
+                {"text": "D) 15", "correct": "False","name":"11"}
+            ]
+        },
+        {
+            "question": "12. Which City is known as Electronic city of India?",
+            "answers": [
+                {"text": "A) Mumbai", "correct": "False","name":"12"},
+                {"text": "B) Hyderabad", "correct": "False","name":"12"},
+                {"text": "C) Guragon", "correct": "False","name":"12"},
+                {"text": "D) Bangalore", "correct": "True","name":"12"}
+            ]
+        },
+        {
+            "question": "13. Which of the following is used to define a block of code in Python Language?",
+            "answers": [
+                {"text": "A) Key", "correct": "False","name":"13"},
+                {"text": "B) Indentation", "correct": "True","name":"13"},
+                {"text": "C) Brackets ", "correct": "False","name":"13"},
+                {"text": "D) All of the Mentioned", "correct": "False","name":"13"}
+            ]
+        },
+        {
+            "question": "14. Which is the most sensitive organ in our body ?",
+            "answers": [
+                {"text": "A) Ears", "correct": "False","name":"14"},
+                {"text": "B) Eye", "correct": "False","name":"14"},
+                {"text": "C) Skin", "correct": "True","name":"14"},
+                {"text": "D) Tongue", "correct": "False","name":"14"}
+            ]
+        },
+        {
+            "question": "15. Introducing a boy, a girl said, 'He is the son of the daughter of the father of my uncle.' How is the boy related to the girl ?",
+            "answers": [
+                {"text": "A) Nephew", "correct": "False","name":"15"},
+                {"text": "B) Brother", "correct": "True","name":"15"},
+                {"text": "C) Uncle", "correct": "False","name":"15"},
+                {"text": "D) Son-in-law", "correct": "False","name":"15"}
+            ]
+        }
+    ]
+}

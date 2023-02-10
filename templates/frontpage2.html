@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <title>Document</title>
+    <style>
+       
+            .info-title{
+                margin-bottom: 10px;
+                font-family: sans-serif;
+                color: teal;
+                text-decoration: underline;
+            }
+            .info{
+                font-style: oblique;
+                color: black;
+                
+            }
+            h2{
+                font-family: fantasy;
+                color: chocolate;
+            }
+            h4{
+                margin-top: 3px;
+            }
+            
+    
+    </style>
+</head>
+<body>
+    <h4 class="card-text float-right font-weight-bold" style="color: green; margin-left:3px;">All the best!</h4>
+        <!-- first page -->
+        <div class="row d-flex justify-content-center">
+            
+                <div class="card-body">
+                    <h2 class="text-center mb-5">{{ title }}</h2>
+                    <hr>
+
+                    <div class="start_page">
+                        
+                        <div class="info-list">
+                            <div class="info-title"><span>Rules of this MCQ examination</span></div>
+                            <br>
+                            <div class="info">1. You will have only <span>2 Minutes</span> to answer your  all questions.</div>
+                            <br>
+                            <div class="info">2. Totally 15 questions are there.</div>
+                            <br>
+                            <div class="info">3. You can't select more than one option.</div>
+                            <br>
+                            <div class="info">4. You can't exit from the Quiz while you're playing.</div>
+                            <br>
+                            <div class="info">5. You'll get  2 points for your each correct answers.</div>
+                            <br>
+                            <div class="info">6. You'll get  -1 points for your each Wrong answers.</div>
+                            <br>
+                            <div class="info">7. If out of time, quiz automatically close and go to the Result page</div>
+                        </div>
+                        <br>
+                        <br>
+                        <button class="btn btn-danger d-flex mx-auto mt-5" id="btn"><a href="/mcq2" style="text-decoration: none; color:beige;"><h4>Start Test</h4></a></button>
+                    </div>
+
+</body>
+</html>

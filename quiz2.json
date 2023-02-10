@@ -1,0 +1,140 @@
+ {
+    "quiz_name": "Chemistry",
+    "questions": [
+        {
+            "question": "1. Which of the following is also known as wood alcohol?",
+            "answers": [
+                {"text": "A) Methanol", "correct": "True", "name":"1"},
+                {"text": "B) Ethanol", "correct": "False","name":"1"},
+                {"text": "C) Propanal", "correct": "False", "name":"1"},
+                {"text": "D) Butanol", "correct": "False","name":"1"}
+            ]
+        },
+        {
+            "question": "2. Which among the following is Fool's Gold?",
+            "answers": [
+                {"text": "A) Copper Sulphate", "correct": "False","name":"2"},
+                {"text": "B) Iron Sulfide", "correct": "True","name":"2"},
+                {"text": "C) Brass", "correct": "False","name":"2"},
+                {"text": "D) Silver Bromide", "correct": "False","name":"2"}
+            ]
+        },
+        {
+            "question": "3.The aqueous solution of which among the following acids is called Vinegar?",
+            "answers": [
+                {"text": "A) Oxalic acid", "correct": "False","name":"3"},
+                {"text": "B) Citric acid", "correct": "False","name":"3"},
+                {"text": "C) Acetic acid", "correct": "True","name":"3"},
+                {"text": "D) Hydrochloric acid", "correct": "False","name":"3"}
+            ]
+        },
+        {
+            "question": "4. Which among the following was first human-made plastic?",
+            "answers": [
+                {"text": "A) Bakelite", "correct": "False","name":"4"},
+                {"text": "B) Polyethene", "correct": "False","name":"4"},
+                {"text": "C) Celluloid", "correct": "True","name":"4"},
+                {"text": "D) Nylon", "correct": "False","name":"4"}
+            ]
+        },
+        {
+            "question": "5. How many electrons can the s-orbital accommodate?",
+            "answers": [
+                {"text": "A) 1", "correct": "False","name":"5"},
+                {"text": "B) 2", "correct": "True","name":"5"},
+                {"text": "C) 8", "correct": "False","name":"5"},
+                {"text": "D) 16", "correct": "False","name":"5"}
+            ]
+        },
+        {
+            "question": "6. Which of these elements do not belong to the same group?",
+            "answers": [
+                {"text": "A)  Nickel", "correct": "False","name":"6"},
+                {"text": "B) Platinum", "correct": "False","name":"6"},
+                {"text": "C) Darmstadtium", "correct": "False","name":"6"},
+                {"text": "D) Roentgenium", "correct": "True","name":"6"}
+            ]
+        },
+        {
+            "question": "7. Elements having same atomic numbers but different mass number are called?",
+            "answers": [
+                {"text": "A) isotones", "correct": "False","name":"7"},
+                {"text": "B) isotopes", "correct": "True","name":"7"},
+                {"text": "C) isotobes", "correct": "False","name":"7"},
+                {"text": "D) isobar", "correct": "False","name":"7"}
+            ]
+        },
+        {
+            "question": "8.Chemical symbol of Tin?",
+            "answers": [
+                {"text": "A) Sn", "correct": "True","name":"8"},
+                {"text": "B) Ag", "correct": "False","name":"8"},
+                {"text": "C) Ti", "correct": "False","name":"8"},
+                {"text": "D) Tn", "correct": "False","name":"8"}
+            ]
+        },
+        {
+            "question": "9. Chemical symbol of Phosphorus?",
+            "answers": [
+                {"text": "A) Ps", "correct": "False","name":"9"},
+                {"text": "B) Ph", "correct": "False","name":"9"},
+                {"text": "C) P", "correct": "True","name":"9"},
+                {"text": "D) Po", "correct": "False","name":"9"}
+            ]
+        },
+        {
+            "question": "10. Chemical symbol of Manganese?",
+            "answers": [
+                {"text": "A) Mn", "correct": "True","name":"10"},
+                {"text": "B) Ma", "correct": "False","name":"10"},
+                {"text": "C) M", "correct": "False","name":"10"},
+                {"text": "D) Ms", "correct": "False","name":"10"}
+            ]
+        },
+        {
+            "question": "11. Which mineral is popularly known as 'buried sunshine'?",
+            "answers": [
+                {"text": "A) Iron", "correct": "False","name":"11"},
+                {"text": "B) Bauxite", "correct": "False","name":"11"},
+                {"text": "C) Mica", "correct": "False","name":"11"},
+                {"text": "D) Coal", "correct": "True","name":"11"}
+            ]
+        },
+        {
+            "question": "12. Which one of the following is acidic?",
+            "answers": [
+                {"text": "A) Lemon juice", "correct": "False","name":"12"},
+                {"text": "B) Tomatoes", "correct": "False","name":"12"},
+                {"text": "C) Milk ", "correct": "False","name":"12"},
+                {"text": "D) All", "correct": "True","name":"12"}
+            ]
+        },
+        {
+            "question": "13.  Which Acid is present in Tomato?",
+            "answers": [
+                {"text": "A) Citric Acid", "correct": "False","name":"13"},
+                {"text": "B) Oxalic Acid", "correct": "True","name":"13"},
+                {"text": "C) Lactic Acid", "correct": "False","name":"13"},
+                {"text": "D) HCl", "correct": "False","name":"13"}
+            ]
+        },
+        {
+            "question": "14.Farmers neutralise the effect of Acidity on the soil by adding-",
+            "answers": [
+                {"text": "A) Slaked lime ", "correct": "True","name":"14"},
+                {"text": "B) Gypsum", "correct": "False","name":"14"},
+                {"text": "C) Caustic soda", "correct": "False","name":"14"},
+                {"text": "D) Baking soda", "correct": "False","name":"14"}
+            ]
+        },
+        {
+            "question": "15.  What is the chemical formula of POP (Plaster of Paris)?",
+            "answers": [
+                {"text": "A) CaSO4.2H2O ", "correct": "False","name":"15"},
+                {"text": "B) CaSO4.3H2O", "correct": "False","name":"15"},
+                {"text": "C) CaSO4.1/2H2O", "correct": "True","name":"15"},
+                {"text": "D) CaCO3.1/2H2", "correct": "False","name":"15"}
+            ]
+        }
+    ]
+}

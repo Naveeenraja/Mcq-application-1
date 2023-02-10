@@ -1,0 +1,140 @@
+{
+    "quiz_name": "English",
+    "questions": [
+        {
+            "question": "1. They hate it when their football team ________.",
+            "answers": [
+                {"text": "A) loses ", "correct": "True", "name":"1"},
+                {"text": "B) looses", "correct": "False","name":"1"},
+                {"text": "C) lost", "correct": "False", "name":"1"},
+                {"text": "D)losing", "correct": "False","name":"1"}
+            ]
+        },
+        {
+            "question": "2.  It was raining heavy yesterday, so they ________ out.",
+            "answers": [
+                {"text": "A) did not go ", "correct": "True","name":"2"},
+                {"text": "B) did not went", "correct": "False","name":"2"},
+                {"text": "C) would not go", "correct": "False","name":"2"},
+                {"text": "D) would not gone", "correct": "False","name":"2"}
+            ]
+        },
+        {
+            "question": "3. _______ students achieve good marks if they study hard",
+            "answers": [
+                {"text": "A) Most", "correct": "True","name":"3"},
+                {"text": "B) Most of the", "correct": "False","name":"3"},
+                {"text": "C) Most of", "correct": "False","name":"3"},
+                {"text": "D) The Most", "correct": "False","name":"3"}
+            ]
+        },
+        {
+            "question": "4. He devotes much of his time ________ for the future",
+            "answers": [
+                {"text": "A) to planning ", "correct": "True","name":"4"},
+                {"text": "B) to plan", "correct": "False","name":"4"},
+                {"text": "C) plan", "correct": "False","name":"4"},
+                {"text": "D) planning", "correct": "False","name":"4"}
+            ]
+        },
+        {
+            "question": "5. They have all been friends ________ their first match as a team",
+            "answers": [
+                {"text": "A)  since ", "correct": "True","name":"5"},
+                {"text": "B) for", "correct": "False","name":"5"},
+                {"text": "C) from", "correct": "False","name":"5"},
+                {"text": "D) during", "correct": "False","name":"5"}
+            ]
+        },
+        {
+            "question": "6. Select the antonym of intrinsic",
+            "answers": [
+                {"text": "A) acquired", "correct": "False","name":"6"},
+                {"text": "B) elemental", "correct": "True","name":"6"},
+                {"text": "C) innate", "correct": "False","name":"6"},
+                {"text": "D) connate", "correct": "False","name":"6"}
+            ]
+        },
+        {
+            "question": "7.  Correction of sentences: What your Surname is?",
+            "answers": [
+                {"text": "A) What is your Surname?", "correct": "True","name":"7"},
+                {"text": "B) Your Surname is what?", "correct": "False","name":"7"},
+                {"text": "C) What your Surname?", "correct": "False","name":"7"},
+                {"text": "D)  None of the above", "correct": "False","name":"7"}
+            ]
+        },
+        {
+            "question": "8.Select the most appropriate word to fill in the blank: He ______ a heinous crime",
+            "answers": [
+                {"text": "A) Made", "correct": "False","name":"8"},
+                {"text": "B) Committed", "correct": "True","name":"8"},
+                {"text": "C) Happened", "correct": "False","name":"8"},
+                {"text": "D) Occurred", "correct": "False","name":"8"}
+            ]
+        },
+        {
+            "question": "9. Select the synonym of - deprive",
+            "answers": [
+                {"text": "A) bestow", "correct": "False","name":"9"},
+                {"text": "B) endow", "correct": "False","name":"9"},
+                {"text": "C) confer", "correct": "False","name":"9"},
+                {"text": "D) dispossess", "correct": "True","name":"9"}
+            ]
+        },
+        {
+            "question": "10. A place where government records are kept",
+            "answers": [
+                {"text": "A) Coffer", "correct": "False","name":"10"},
+                {"text": "B) Pantry", "correct": "False","name":"10"},
+                {"text": "C) Scullery", "correct": "False","name":"10"},
+                {"text": "D) Archive", "correct": "True","name":"10"}
+            ]
+        },
+        {
+            "question": "11.At work i am quite reserved. What does it mean?",
+            "answers": [
+                {"text": "A) feel shy", "correct": "False","name":"11"},
+                {"text": "B) not talkative", "correct": "False","name":"11"},
+                {"text": "C) timid", "correct": "False","name":"11"},
+                {"text": "D) All of the above", "correct": "True","name":"11"}
+            ]
+        },
+        {
+            "question": "12. What does the abbreviation HTML stand for?",
+            "answers": [
+                {"text": "A) HyperText Markup Language", "correct": "True","name":"12"},
+                {"text": "B) HighText Markup Language", "correct": "False","name":"12"},
+                {"text": "C) HyperText Markdown Language", "correct": "False","name":"12"},
+                {"text": "D) None of these above", "correct": "False","name":"12"}
+            ]
+        },
+        {
+            "question": "13. What is the number of members of the European Union?",
+            "answers": [
+                {"text": "A) 20", "correct": "False","name":"13"},
+                {"text": "B) 28", "correct": "True","name":"13"},
+                {"text": "C) 22", "correct": "False","name":"13"},
+                {"text": "D) 25", "correct": "False","name":"13"}
+            ]
+        },
+        {
+            "question": "14. In which year was the Reserve Bank Of India established?",
+            "answers": [
+                {"text": "A)  1945", "correct": "False","name":"14"},
+                {"text": "B)  1940", "correct": "False","name":"14"},
+                {"text": "C)  1935", "correct": "True","name":"14"},
+                {"text": "D)  1938", "correct": "False","name":"14"}
+            ]
+        },
+        {
+            "question": "15. Country which is not located in Asia is",
+            "answers": [
+                {"text": "A) Srilanka ", "correct": "False","name":"15"},
+                {"text": "B) North Korea", "correct": "False","name":"15"},
+                {"text": "C) Vietnam", "correct": "False","name":"15"},
+                {"text": "D) Tasmania", "correct": "True","name":"15"}
+            ]
+        }
+    ]
+}

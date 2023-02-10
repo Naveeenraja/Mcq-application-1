@@ -1,54 +1,30 @@
 {
-   "student registration": [
-      {
-         "s_no": 1,
-         "Firstname": "naveen",
-         "Lastname": "raja",
-         "DOB": "2000-10-25",
-         "Gender": "male",
-         "Email": "rnaveen2510@gmail.com",
-         "Username": "Naveen Raja",
-         "Password": "rnaveen2510@"
-      },
-      {
-         "s_no": 2,
-         "Firstname": "vinoth",
-         "Lastname": "kumar",
-         "DOB": "2000-10-10",
-         "Gender": "male",
-         "Email": "vinoth123@gmail.com",
-         "Username": "vinoth@",
-         "Password": "vinoth@"
-      },
-      {
-         "s_no": 3,
-         "Firstname": "srinivasan",
-         "Lastname": "govinthan",
-         "DOB": "2000-05-16",
-         "Gender": "male",
-         "Email": "srini@gmail.com",
-         "Username": "srini",
-         "Password": "srini@"
-      },
-      {
-         "s_no": 4,
-         "Firstname": "naveen",
-         "Lastname": "raja",
-         "DOB": "2000-10-25",
-         "Gender": "male",
-         "Email": "test@test.com",
-         "Username": "Naveen Raja",
-         "Password": "test"
-      },
-      {
-         "s_no": 5,
-         "Firstname": "varshita",
-         "Lastname": "kalaivani",
-         "DOB": "1997-06-26",
-         "Gender": "female",
-         "Email": "varu26@gmail.com",
-         "Username": "varu26",
-         "Password": "varu26@"
-      }
-   ]
+    "student registration": [
+        {
+            "s_no": 1,
+            "Firstname": "Naveen",
+            "Lastname": "Raja",
+            "DOB": "2000-10-25",
+            "Gender": "male",
+            "Email": "rnaveen2510@gmail.com",
+            "Username": "Naveen",
+            "Password": "123@",
+            "Gk_Mark": "30",
+            "Gk_Per": "100.0",
+            "Gk_Time_Taken": "0:01:02.062104",
+            "Gk_date_exam": "2023-02-10",
+            "chem_Mark": "21",
+            "chem_Per": "70.0",
+            "chem_Time_Taken": "0:01:18.349512",
+            "chem_date_exam": "2023-02-10",
+            "Eng_Mark": "24",
+            "Eng_Per": "80.0",
+            "Eng_Time_Taken": "0:01:34.741565",
+            "Eng_date_exam": "2023-02-10",
+            "Geo_Mark": "24",
+            "Geo_Per": "80.0",
+            "Geo_Time_Taken": "0:01:25.326910",
+            "Geo_date_exam": "2023-02-10"
+        }
+    ]
 }

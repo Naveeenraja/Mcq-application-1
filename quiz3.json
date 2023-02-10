@@ -1,0 +1,140 @@
+{
+    "quiz_name": "Geology",
+    "questions": [
+        {
+            "question": "1. Which of these is NOT a type of volcano??",
+            "answers": [
+                {"text": "A) Composite", "correct": "False", "name":"1"},
+                {"text": "B) Spherical", "correct": "True","name":"1"},
+                {"text": "C) Cinder cone", "correct": "False", "name":"1"},
+                {"text": "D) Shield", "correct": "False","name":"1"}
+            ]
+        },
+        {
+            "question": "2. What is the name of the process by which rock/soil gradually breaks down from water or wind?",
+            "answers": [
+                {"text": "A) Erosion", "correct": "True","name":"2"},
+                {"text": "B) Condensation", "correct": "False","name":"2"},
+                {"text": "C) Alliteration", "correct": "False","name":"2"},
+                {"text": "D) Deposition", "correct": "False","name":"2"}
+            ]
+        },
+        {
+            "question": "3.What is NOT a part of the Earth??",
+            "answers": [
+                {"text": "A)Outer core", "correct": "False","name":"3"},
+                {"text": "B) Crust", "correct": "False","name":"3"},
+                {"text": "C) Corsid", "correct": "True","name":"3"},
+                {"text": "D) Mantle", "correct": "False","name":"3"}
+            ]
+        },
+        {
+            "question": "4. Which is NOT one of the three categories of rock?",
+            "answers": [
+                {"text": "A) Sedimentary", "correct": "False","name":"4"},
+                {"text": "B) Topographical", "correct": "True","name":"4"},
+                {"text": "C) Metamorphic", "correct": "False","name":"4"},
+                {"text": "D) Igneus", "correct": "False","name":"4"}
+            ]
+        },
+        {
+            "question": "5. How old is the Earth?",
+            "answers": [
+                {"text": "A) 36.2 Trillion years old", "correct": "False","name":"5"},
+                {"text": "B) 46,000 years old", "correct": "False","name":"5"},
+                {"text": "C) 2020 years old", "correct": "False","name":"5"},
+                {"text": "D) 4.54 Billion years old", "correct": "True","name":"5"}
+            ]
+        },
+        {
+            "question": "6. What are rocks made of?",
+            "answers": [
+                {"text": "A) Sand", "correct": "False","name":"6"},
+                {"text": "B) Minerals", "correct": "True","name":"6"},
+                {"text": "C) Fossils", "correct": "False","name":"6"},
+                {"text": "D) Granite", "correct": "False","name":"6"}
+            ]
+        },
+        {
+            "question": "7. What is the hardest natural substance in the world?",
+            "answers": [
+                {"text": "A) A Ruby", "correct": "False","name":"7"},
+                {"text": "B) A Diamond", "correct": "True","name":"7"},
+                {"text": "C) A Ignus rock", "correct": "False","name":"7"},
+                {"text": "D)  Marble", "correct": "False","name":"7"}
+            ]
+        },
+        {
+            "question": "8.What eon are we in now?",
+            "answers": [
+                {"text": "A) Protozoic eon", "correct": "False","name":"8"},
+                {"text": "B) Paleozoic eon", "correct": "False","name":"8"},
+                {"text": "C) Phanerozoic eon", "correct": "True","name":"8"},
+                {"text": "D) Hadeon eon", "correct": "False","name":"8"}
+            ]
+        },
+        {
+            "question": "9.The element which is most widespread in the earth's crust is?",
+            "answers": [
+                {"text": "A) Oxygen ", "correct": "True","name":"9"},
+                {"text": "B) Silicon", "correct": "False","name":"9"},
+                {"text": "C) Aluminium", "correct": "False","name":"9"},
+                {"text": "D) Iron", "correct": "False","name":"9"}
+            ]
+        },
+        {
+            "question": "10. The following factors are hypothesised to be involved in plate movement?",
+            "answers": [
+                {"text": "A) Isostasy", "correct": "False","name":"10"},
+                {"text": "B) Earth's rotation", "correct": "False","name":"10"},
+                {"text": "C) Thermal convection cells", "correct": "True","name":"10"},
+                {"text": "D) Polar wandering", "correct": "False","name":"10"}
+            ]
+        },
+        {
+            "question": "11.The following is the name of the instrument used to record earthquake waves?",
+            "answers": [
+                {"text": "A) Seismograph ", "correct": "True","name":"11"},
+                {"text": "B) Seismogram", "correct": "False","name":"11"},
+                {"text": "C) Seismometer", "correct": "False","name":"11"},
+                {"text": "D) Scintillometer", "correct": "False","name":"11"}
+            ]
+        },
+        {
+            "question": "12.What is the source of energy for the Earth's internal heat engine?",
+            "answers": [
+                {"text": "A) Solar energy", "correct": "False","name":"12"},
+                {"text": "B) Ocean tides", "correct": "False","name":"12"},
+                {"text": "C) Volcanoes ", "correct": "False","name":"12"},
+                {"text": "D) Radioactivity", "correct": "True","name":"12"}
+            ]
+        },
+        {
+            "question": "13.  As a consequence of global warming, there may be an increase in sea level as a result of?",
+            "answers": [
+                {"text": "A) A Melting of ice-caps", "correct": "False","name":"13"},
+                {"text": "B) Thermal expansion of seawater", "correct": "False","name":"13"},
+                {"text": "C) Both A. and B.", "correct": "True","name":"13"},
+                {"text": "D) Isostatic rebound", "correct": "False","name":"13"}
+            ]
+        },
+        {
+            "question": "14.The ozone layer in the Earth's atmosphere is limited to the following areas?",
+            "answers": [
+                {"text": "A)  A Troposphere", "correct": "False","name":"14"},
+                {"text": "B)  Stratosphere", "correct": "True","name":"14"},
+                {"text": "C)  Thermosphere", "correct": "False","name":"14"},
+                {"text": "D)  Mesosphere", "correct": "False","name":"14"}
+            ]
+        },
+        {
+            "question": "15. What are the cracks along with those blocks that have moved relative to one another?",
+            "answers": [
+                {"text": "A) Folds ", "correct": "False","name":"15"},
+                {"text": "B) Joints", "correct": "False","name":"15"},
+                {"text": "C) Faults", "correct": "True","name":"15"},
+                {"text": "D) Intrusions", "correct": "False","name":"15"}
+            ]
+        }
+    ]
+}
